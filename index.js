@@ -8,7 +8,14 @@ const animalSounds = {
 };
 const {moo, neigh, baa, oink, cluck} = animalSounds;
 
-
+const animalSounds = {
+ moo: 'cow' ,
+ neigh: 'horse',
+ baa: 'sheep' ,
+  oink: 'pig', 
+  cluck: 'chicken'
+  
+};
 
 const colors = ['rehd', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
