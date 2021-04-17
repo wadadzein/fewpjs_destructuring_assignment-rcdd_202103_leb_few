@@ -9,14 +9,14 @@ const animalSounds = {
 const {moo, neigh, baa, oink, cluck} = animalSounds;
 
 const animalSounds = {
- moo: 'cow' ,
- neigh: 'horse',
- baa: 'sheep' ,
+ bessie: 'cow' ,
+ bolt : 'horse',
+ dolly: 'sheep' ,
   oink: 'pig', 
   cluck: 'chicken'
 };
 
-{bessie, dolly, babe, little}=
+const {bessie, dolly, babe, little}=
 const colors = ['rehd', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
 const muppet = {
