@@ -1,4 +1,9 @@
-const farmAnimals = {cow:'moo', horse:'neigh', sheep:'beh', pig: 'oinks', chicken:'cluck'};
+const farmAnimals = {
+  cow:'moo',
+  horse:'neigh',
+  sheep:'beh',
+  pig: 'oinks', 
+  chicken:'cluck'};
 const {cow, horse, sheep, pig, chicken} = farmAnimals;
 console.log (moo, neigh, beh, oinks, cluck);
 const colors = ['rehd', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
