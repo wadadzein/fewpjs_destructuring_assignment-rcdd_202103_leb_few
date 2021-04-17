@@ -1,9 +1,11 @@
 const farmAnimals = {
-  cow:'moo',
+  cow: 'moo',
   horse:'neigh',
-  sheep:'beh',
+  sheep: 'beh',
   pig: 'oinks', 
-  chicken:'cluck'};
+  chicken: 'cluck'
+  
+};
 const {cow, horse, sheep, pig, chicken} = farmAnimals;
 
 const colors = ['rehd', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
