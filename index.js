@@ -1,7 +1,7 @@
 const animalSounds = {
  moo: 'cow' ,
  neigh: 'horse',
- beh: 'sheep' ,
+ baa: 'sheep' ,
   oinks: 'pig', 
   cluck: 'chicken'
   
