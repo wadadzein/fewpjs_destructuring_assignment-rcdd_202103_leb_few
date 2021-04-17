@@ -1,6 +1,6 @@
 const farmAnimals = {
  'moo': cow ,
- 'neigh horse:',
+ 'neigh: horse',
   sheep: 'beh',
   pig: 'oinks', 
   chicken: 'cluck'
