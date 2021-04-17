@@ -1,5 +1,6 @@
 const farmAnimals = 'cow horse sheep pig chicken';
 const [moo, neigh, beh, oinks, cluck] = animalSounds;
+console.log (moo, neigh, beh, oinks, cluck);
 const colors = ['rehd', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
 const muppet = {
