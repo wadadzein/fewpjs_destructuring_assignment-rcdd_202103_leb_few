@@ -3,7 +3,7 @@ const farmAnimals = {
  'neigh: horse',
  'beh': sheep ,
   'oinks': pig, 
-  chicken: 'cluck'
+  cluckchicken: ''
   
 };
 const {cow, horse, sheep, pig, chicken} = farmAnimals;
