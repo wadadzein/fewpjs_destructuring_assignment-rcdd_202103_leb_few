@@ -1,12 +1,12 @@
-const farmAnimals = {
- 'moo': cow ,
- 'neigh: horse',
- 'beh': sheep ,
-  'oinks': pig, 
-  cluckchicken: ''
+const animalSounds = {
+ moo: 'cow' ,
+ neigh: 'horse',
+ beh: 'sheep' ,
+  oinks: 'pig', 
+  cluck: 'chicken'
   
 };
-const {cow, horse, sheep, pig, chicken} = farmAnimals;
+const {moo, neigh, beh, oinks, cluck} = animalSounds;
 
 const colors = ['rehd', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
