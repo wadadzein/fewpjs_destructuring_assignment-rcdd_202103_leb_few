@@ -8,6 +8,8 @@ const animalSounds = {
 };
 const {moo, neigh, baa, oink, cluck} = animalSounds;
 
+
+
 const colors = ['rehd', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
 const muppet = {
