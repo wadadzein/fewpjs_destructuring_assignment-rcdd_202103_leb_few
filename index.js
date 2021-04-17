@@ -29,7 +29,7 @@ const{blackAndWhite, black, pink}= animalColors;
 //arrays
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 const [red, orange, yellow, green, blue, indigo, violet]= colors;
-const[r, o, y, g, b, , v]= rainbow;
+const[r, o, y, g, b, , v]= initials;
 
 const muppet = {
   muppetName: 'Miss Piggy',
