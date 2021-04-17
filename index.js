@@ -1,6 +1,6 @@
 const farmAnimals = 'cow horse sheep pig chicken';
-const [moo, ]
-const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
+const [moo, neigh, ]
+const colors = ['rehd', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
 const muppet = {
   muppetName: 'Miss Piggy',
