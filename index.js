@@ -2,11 +2,11 @@ const animalSounds = {
  moo: 'cow' ,
  neigh: 'horse',
  baa: 'sheep' ,
-  oinks: 'pig', 
+  oink: 'pig', 
   cluck: 'chicken'
   
 };
-const {moo, neigh, baa, oinks, cluck} = animalSounds;
+const {moo, neigh, baa, oink, cluck} = animalSounds;
 
 const colors = ['rehd', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
