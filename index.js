@@ -6,7 +6,7 @@ const animalSounds = {
   cluck: 'chicken'
   
 };
-const {moo, neigh, beh, oinks, cluck} = animalSounds;
+const {moo, neigh, baa, oinks, cluck} = animalSounds;
 
 const colors = ['rehd', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
