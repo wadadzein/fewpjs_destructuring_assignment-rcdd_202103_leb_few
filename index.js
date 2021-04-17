@@ -25,7 +25,10 @@ const animalColors = {
  // little: 'chicken'
 };
 const{blackAndWhite, black, pink}= animalColors;
-const colors = ['rehd', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
+
+//arrays
+const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
+const [red, orange, yellow, green, blue, indigo, violet]= colors;
 
 const muppet = {
   muppetName: 'Miss Piggy',
