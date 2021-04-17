@@ -8,12 +8,12 @@ const animalSounds = {
 };
 const {moo, neigh, baa, oink, cluck} = animalSounds;
 
-const animalSounds = {
+const animalNames = {
  bessie: 'cow' ,
  bolt : 'horse',
  dolly: 'sheep' ,
-  oink: 'pig', 
-  cluck: 'chicken'
+  babe: 'pig', 
+  little: 'chicken'
 };
 
 const {bessie, dolly, babe, little}=
