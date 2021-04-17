@@ -14,9 +14,9 @@ const animalSounds = {
  baa: 'sheep' ,
   oink: 'pig', 
   cluck: 'chicken'
-  
 };
 
+{bessie, dolly, babe, little}=
 const colors = ['rehd', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
 const muppet = {
