@@ -15,8 +15,16 @@ const animalNames = {
   babe: 'pig', 
   little: 'chicken'
 };
-
 const {bessie, dolly, babe, little}= animalNames;
+
+const animalColors = {
+ blackAndWhite: 'cow' ,
+ //bolt : 'horse',
+ black: 'sheep' ,
+  pink: 'pig', 
+ // little: 'chicken'
+};
+const{blackAndWhite, black, pink}= animalColors;
 const colors = ['rehd', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
 const muppet = {
